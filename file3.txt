@@ -1,0 +1,7 @@
+Employee ID:3
+Employee Name     :rockstararun
+Father's Name     :arun
+Employee Contact  :213323244
+Email Information :adadasd@gmail.com
+Employee position :manager
+Employee Salary   :203240204

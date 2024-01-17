@@ -1,0 +1,7 @@
+Employee ID:1
+Employee Name     :Arun
+Father's Name     :shan
+Employee Contact  :23424334535
+Email Information :asd@gmail.com
+Employee position :team leader
+Employee Salary   :200000
